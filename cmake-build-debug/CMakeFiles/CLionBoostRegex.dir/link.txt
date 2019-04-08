@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CLionBoostRegex.dir/main.cpp.o  -o CLionBoostRegex -static /usr/lib/x86_64-linux-gnu/libboost_regex.so 
